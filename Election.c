@@ -1,3 +1,7 @@
+/*
+	Author: Chanchal Kumar
+	Email: ckgec98@gmail.com
+*/
 #include<stdio.h>
 #include<stdlib.h> //because malloc() is used in the program
 struct node
